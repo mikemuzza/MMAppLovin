@@ -1,7 +1,7 @@
 MMAppLovin
 ==========
 
-Wrapper class for the AppLovin SDK to simplfy interstitial caching (mimics Chartboost's clean and simple approach).
+Wrapper class for the AppLovin SDK to simplfy interstitial caching with convenience methods (mimics Chartboost's clean and simple approach).
 
 ### Load Interstitial
 ```objective-c
